@@ -12,8 +12,8 @@ import sys
 print("Merhaba oyuna hoşgeldiniz!") 
 
 attempts = 0
-check_username = "0891c983837e60440be7b5e57afae60f"
-check_password = "c4ca4238a0b923820dcc509a6f75849b"
+check_username = "63a9f0ea7bb98050796b649e85481845"
+check_password = "63a9f0ea7bb98050796b649e85481845"
 
 
 while True: 
